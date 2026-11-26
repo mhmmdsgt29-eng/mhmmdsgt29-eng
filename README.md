@@ -65,8 +65,8 @@
       </a>
       <h4>◈ IQ ROOM KEDINASAN — EdTech, LMS & CBT</h4>
       <p>
-        <a href="https://iqroomkedinasan.com"><img src="https://img.shields.io/badge/LIVE_SITE-iqroomkedinasan.com-00f0ff?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=161b22" /></a>
-        <img src="https://img.shields.io/badge/ROLE-Solo_Full--Stack_&_DevOps-ff2a85?style=flat-square&labelColor=161b22" />
+        <a href="https://iqroomkedinasan.com"><img src="https://img.shields.io/badge/LIVE_SITE-iqroomkedinasan.com-0e7490?style=flat-square&logo=googlechrome&logoColor=00f0ff&labelColor=161b22" /></a><br />
+        <img src="https://img.shields.io/badge/ROLE-Solo_Full--Stack_%26_DevOps-d91b6b?style=flat-square&labelColor=161b22" />
       </p>
       <p>Full custom enterprise EdTech & Computer-Based Test ecosystem architected solo from Figma to Ubuntu Cloud VPS.</p>
       <ul>
@@ -89,8 +89,8 @@
       </a>
       <h4>◈ BALAI BAHASA KALBAR — Gov Public Portal</h4>
       <p>
-        <a href="https://balaibahasakalbar.kemendikdasmen.go.id"><img src="https://img.shields.io/badge/LIVE_SITE-kemendikdasmen.go.id-00f0ff?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=161b22" /></a>
-        <img src="https://img.shields.io/badge/ROLE-UI/UX_&_Front--End-ff2a85?style=flat-square&labelColor=161b22" />
+        <a href="https://balaibahasakalbar.kemendikdasmen.go.id"><img src="https://img.shields.io/badge/LIVE_SITE-kemendikdasmen.go.id-0e7490?style=flat-square&logo=googlechrome&logoColor=00f0ff&labelColor=161b22" /></a><br />
+        <img src="https://img.shields.io/badge/ROLE-UI%2FUX_%26_Front--End-d91b6b?style=flat-square&labelColor=161b22" />
       </p>
       <p>Official government public service portal & internal operations system built under Magang Hub Kemnaker.</p>
       <ul>
