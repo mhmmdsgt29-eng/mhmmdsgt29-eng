@@ -1,28 +1,25 @@
-<!-- TOP ACCENT: RETRO-CYBER MAGENTA TO CYAN WAVE -->
+<!-- HEADER: NEON-GLASS RETRO-ROBOTIC BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2a85,50:3b0d52,100:00f0ff&height=130&section=header&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2a85,50:3b0d52,100:00f0ff&height=190&section=header&text=MUHAMMAD%20ASWIN%20SIGIT&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%E2%97%88%20UI/UX%20ARCHITECT%20%E2%97%88%20CLOUD%20DEVOPS&descAlignY=62&descSize=13&animation=fadeIn" width="100%" />
 </div>
 
-<!-- HERO SECTION: LOGO + IDENTITY + TYPING TERMINAL -->
 <div align="center">
-  <img src="assets/Logo.png" alt="Muhammad Aswin Sigit Logo" width="110" />
-  <br />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=720&height=45&lines=MUHAMMAD+ASWIN+SIGIT" alt="Muhammad Aswin Sigit" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&height=30&lines=%3E+FULL-STACK+ENGINEER+%E2%97%88+UI%2FUX+ARCHITECT+%E2%97%88+CLOUD+DEVOPS;%3E+CORE_STACK%3A+React+19+%7C+TypeScript+%7C+Laravel+13+%7C+Redis+%7C+Linux+VPS;%3E+STATUS%3A+Building+High-Concurrency+CBT+%26+EdTech+Ecosystems;%3E+AVAILABILITY%3A+Open+for+Remote+%2F+Hybrid+Engineering+Roles" alt="Typing Telemetry" />
+  <img src="assets/Logo.png" alt="MA Logo" width="88" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://contra.com/muhammad_aswin_sigit_jk8xiulv"><img src="https://img.shields.io/badge/PORTFOLIO-CONTRA-161b22?style=for-the-badge&logo=contra&logoColor=FF2A85&labelColor=0d1117" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-aswin-sigit-2a58881a1"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161b22?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0d1117" /></a>
-  &nbsp;
-  <a href="mailto:mhmmdsgt29@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT-161b22?style=for-the-badge&logo=gmail&logoColor=FF2A85&labelColor=0d1117" /></a>
-  &nbsp;
-  <a href="https://iqroomkedinasan.com"><img src="https://img.shields.io/badge/LIVE_SYSTEM-IQ_ROOM-161b22?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0d1117" /></a>
+  <a href="https://contra.com/muhammad_aswin_sigit_jk8xiulv">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=740&lines=%3E+INIT_SYSTEM%3A+End-to-End+Enterprise+Web+%26+Cloud+Architecture;%3E+CORE_STACK%3A+React+19+%7C+TypeScript+%7C+Laravel+13+%7C+Redis+%7C+Linux+VPS;%3E+STATUS%3A+Building+High-Concurrency+CBT+%26+EdTech+Ecosystems;%3E+AVAILABILITY%3A+Open+for+Remote+%2F+Hybrid+Engineering+Roles" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://contra.com/muhammad_aswin_sigit_jk8xiulv"><img src="https://img.shields.io/badge/PORTFOLIO-CONTRA-0d1117?style=for-the-badge&logo=contra&logoColor=00F0FF&labelColor=161b22" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-aswin-sigit-2a58881a1"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=161b22" /></a>
+  <a href="mailto:mhmmdsgt29@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT-0d1117?style=for-the-badge&logo=gmail&logoColor=FF2A85&labelColor=161b22" /></a>
+  <a href="https://iqroomkedinasan.com"><img src="https://img.shields.io/badge/LIVE_SYSTEM-IQ_ROOM-0d1117?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=161b22" /></a>
 </div>
 
 <br />
@@ -31,20 +28,30 @@
 
 ### `01. SYSTEM_PROFILE`
 
-```yaml
-IDENTITY:
-  name       : "Muhammad Aswin Sigit, S.Kom."
-  degree     : "B.Sc. in Computer Systems Engineering — Universitas Tanjungpura"
-  base       : "Pontianak, Kalimantan Barat, Indonesia (UTC+7)"
-  work_mode  : "Remote / Hybrid / On-Site"
-
-PRIMARY_DIRECTIVES:
-  - "End-to-End Product Ownership: Figma Design System -> Clean Code -> Cloud VPS Deployment"
-  - "High-Concurrency Architecture: Real-Time WebSockets, Redis Caching & Modular REST APIs"
-  - "Security & Performance: Multi-Tier RBAC, DRM Content Protection, Server Hardening"
-```
-
-Results-driven **Full-Stack Developer & UI/UX Designer** with a proven track record of architecting and shipping enterprise-scale web platforms from scratch. Bridging modern **React 19 + TypeScript** and **Vue.js** front-end ecosystems with resilient **Laravel**, **PostgreSQL/MySQL**, and **Redis** backends, deployed on self-managed **Linux Cloud VPS** infrastructure.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4>◈ ABOUT ME</h4>
+      <p>
+        Results-driven <b>Full-Stack Engineer & UI/UX Designer</b> (S.Kom., Universitas Tanjungpura) with a proven track record of owning enterprise web platforms <b>end-to-end</b>—from Figma design systems and clean <b>React 19 + TypeScript</b> / <b>Vue.js</b> interfaces to modular <b>Laravel REST APIs</b>, <b>PostgreSQL/MySQL</b>, <b>Redis</b>, and self-managed <b>Linux Cloud VPS</b> infrastructure.
+      </p>
+      <p>
+        <b>Base:</b> Pontianak, West Kalimantan, Indonesia (UTC+7)<br />
+        <b>Availability:</b> Open to <code>Remote</code> / <code>Hybrid</code> / <code>On-Site</code>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h4>◈ ENGINEERING HIGHLIGHTS</h4>
+      <ul>
+        <li><b>840+</b> React 19 + TypeScript modules shipped</li>
+        <li><b>425+</b> Web & REST API routes across 11 domains</li>
+        <li><b>~98%</b> faster heavy PDF export (<code>&gt;112s</code> → <code>~2.3s</code>)</li>
+        <li><b>0%</b> data loss Linux Cloud VPS & Cloudflare WAF migration</li>
+        <li><b>End-to-End</b> UI/UX, RBAC, WebSockets & DevOps ownership</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,58 +63,77 @@ Results-driven **Full-Stack Developer & UI/UX Designer** with a proven track rec
       <a href="https://iqroomkedinasan.com">
         <img src="assets/iqroom-preview.png" alt="IQ ROOM Kedinasan Preview" width="100%" />
       </a>
-      <h4>◈ IQ ROOM KEDINASAN — EdTech, LMS & CBT Platform</h4>
+      <h4>◈ IQ ROOM KEDINASAN — EdTech, LMS & CBT</h4>
       <p>
-        <a href="https://iqroomkedinasan.com"><code>LIVE: iqroomkedinasan.com</code></a> &nbsp;|&nbsp; <code>Jul 2025 – Present</code>
+        <a href="https://iqroomkedinasan.com"><img src="https://img.shields.io/badge/LIVE_SITE-iqroomkedinasan.com-00f0ff?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=161b22" /></a>
+        <img src="https://img.shields.io/badge/ROLE-Solo_Full--Stack_&_DevOps-ff2a85?style=flat-square&labelColor=161b22" />
       </p>
-      <p>
-        Full custom enterprise ecosystem engineered solo from UI/UX to production Cloud VPS.
-      </p>
+      <p>Full custom enterprise EdTech & Computer-Based Test ecosystem architected solo from Figma to Ubuntu Cloud VPS.</p>
       <ul>
-        <li><b>Modular Scale:</b> 11 business domains, 92 relational migrations, 425+ web/API routes, and 840+ React 19 + TypeScript modules (Light/Dark Mode).</li>
-        <li><b>Real-Time Anti-Cheat CBT:</b> Server-authoritative timer, KaTeX math rendering, Redis non-blocking autosave, tab-lock auto-submit, and live WebSocket proctoring (Laravel Reverb).</li>
-        <li><b>E-Rapor & Binjas Engine:</b> Automated weighted grading (Academic 50%, Physical/Binjas 35%, QR Attendance 15%) with <b>SHA-256 Digital Sealing</b> & public QR verification.</li>
-        <li><b>DRM & Monetization:</b> Canvas-rendered anti-download PDF viewer (Nginx <code>X-Accel-Redirect</code>), Midtrans Snap (SHA-512 Webhook), and integrated Affiliate Wallet.</li>
-        <li><b>Extreme Optimization:</b> Migrated to Ubuntu 24.04 Cloud VPS + Cloudflare WAF with 0% data loss; reduced 240+ math-question PDF export from <b>&gt;112s timeout to ~2.3s (~98% faster)</b>.</li>
+        <li><b>Architecture:</b> 11 modular business domains, 92 migrations, 425+ routes, 840+ React/TS views (Light/Dark Mode).</li>
+        <li><b>Anti-Cheat CBT:</b> Server-authoritative timer, KaTeX math, Redis autosave, tab-lock auto-submit & Reverb WebSocket proctoring.</li>
+        <li><b>E-Rapor & Binjas:</b> Automated weighted grading with <b>SHA-256 Digital Sealing</b>, public QR verification & physical score tracking.</li>
+        <li><b>DRM & Payments:</b> Anti-download Canvas PDF viewer (Nginx <code>X-Accel-Redirect</code>), Midtrans SHA-512 Webhook & Affiliate Wallet.</li>
       </ul>
       <p>
-        <code>React 19</code> <code>TypeScript</code> <code>Laravel 13</code> <code>Inertia.js</code> <code>Tailwind v4</code> <code>Redis 7</code> <code>Reverb</code> <code>Ubuntu VPS</code>
+        <img src="https://img.shields.io/badge/React_19-161b22?style=flat-square&logo=react&logoColor=00F0FF" />
+        <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/Laravel_13-161b22?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/Redis_7-161b22?style=flat-square&logo=redis&logoColor=DC382D" />
+        <img src="https://img.shields.io/badge/Ubuntu_VPS-161b22?style=flat-square&logo=ubuntu&logoColor=E95420" />
       </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://balaibahasakalbar.kemendikdasmen.go.id">
         <img src="assets/balaibahasa-preview.png" alt="Balai Bahasa Kalbar Preview" width="100%" />
       </a>
-      <h4>◈ BALAI BAHASA KALBAR — Official Government Portal</h4>
+      <h4>◈ BALAI BAHASA KALBAR — Gov Public Portal</h4>
       <p>
-        <a href="https://balaibahasakalbar.kemendikdasmen.go.id"><code>LIVE: balaibahasakalbar.kemendikdasmen.go.id</code></a> &nbsp;|&nbsp; <code>Nov 2025 – May 2026</code>
+        <a href="https://balaibahasakalbar.kemendikdasmen.go.id"><img src="https://img.shields.io/badge/LIVE_SITE-kemendikdasmen.go.id-00f0ff?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=161b22" /></a>
+        <img src="https://img.shields.io/badge/ROLE-UI/UX_&_Front--End-ff2a85?style=flat-square&labelColor=161b22" />
       </p>
-      <p>
-        Official public service portal & internal operations system built under Magang Hub Kemnaker (Kemendikdasmen).
-      </p>
+      <p>Official government public service portal & internal operations system built under Magang Hub Kemnaker.</p>
       <ul>
-        <li><b>UI/UX & Design System:</b> Designed end-to-end wireframes and interactive prototypes in Figma & Balsamiq aligned with ministerial public service standards.</li>
-        <li><b>Internal Multi-Role Gatepass:</b> Engineered tiered authorization (Head of Office, HR, Staff, Security) for employee gatepass validation and daily monitoring.</li>
-        <li><b>Dynamic Publications & Surveys:</b> Built customizable quarterly/annual satisfaction surveys and interactive flipbook viewers for E-Books and scientific publications.</li>
-        <li><b>Public Request Security:</b> Implemented unique registration code validation with strict rate-limiting (max 3 submissions/day) to prevent spam.</li>
-        <li><b>Production Launch:</b> Managed deployment and technical coordination directly with Pusdatin Kemendikdasmen.</li>
+        <li><b>UI/UX System:</b> Wireframes and interactive prototypes in Figma & Balsamiq aligned with ministerial standards.</li>
+        <li><b>Multi-Role Gatepass:</b> Tiered authorization (Head of Office, HR, Staff, Security) for employee gatepass validation & monitoring.</li>
+        <li><b>Digital Publications:</b> Dynamic quarterly/annual public surveys & interactive flipbook viewer for E-Books and journals.</li>
+        <li><b>Security & Launch:</b> Rate-limited public info requests (max 3/day) and production deployment coordinated with Pusdatin.</li>
       </ul>
       <p>
-        <code>Vue.js</code> <code>Inertia.js</code> <code>Laravel</code> <code>MySQL</code> <code>Tailwind CSS</code> <code>Figma</code>
+        <img src="https://img.shields.io/badge/Vue.js-161b22?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+        <img src="https://img.shields.io/badge/Inertia.js-161b22?style=flat-square&logo=inertia&logoColor=9553E9" />
+        <img src="https://img.shields.io/badge/Laravel-161b22?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1" />
+        <img src="https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=FF2A85" />
       </p>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>▸ EXPAND_ARCHIVE: IoT, Mobile & Community Digitalization Projects</b></summary>
-  <br />
-  <ul>
-    <li><b>Automatic Cat Feeder (IoT & Mobile — Aug 2023 – Jun 2025):</b> Engineered microcontroller-based automated feeding hardware (<code>Arduino / C++</code>) paired with a cross-platform <code>Flutter / Dart</code> mobile app for real-time telemetry and remote scheduling.</li>
-    <li><b>Village Web GIS — Desa Kalimas (Kampus Merdeka — Aug 2022 – Dec 2022):</b> Developed a Geographic Information System (GIS) web portal to map and visualize regional potential in Kubu Raya, alongside community digital literacy training.</li>
-    <li><b>Village Administration Portal & Network — Desa Tanjung Lasa (Kampus Merdeka — Nov 2021 – Jan 2022):</b> Built public village information services and configured office internet infrastructure in Kapuas Hulu.</li>
-  </ul>
-</details>
+#### `ADDITIONAL_ENGINEERING_PROJECTS`
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>◈ Automatic Cat Feeder (IoT)</b><br />
+      <code>Aug 2023 – Jun 2025</code>
+      <p>Microcontroller-based automated pet feeder paired with a cross-platform mobile app for real-time telemetry and remote scheduling.</p>
+      <p><code>Arduino</code> <code>C++</code> <code>Flutter</code> <code>Dart</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <b>◈ Village Web GIS — Kalimas</b><br />
+      <code>Aug 2022 – Dec 2022</code>
+      <p>Geographic Information System (GIS) web portal mapping regional potential in Kubu Raya, paired with community digital literacy training.</p>
+      <p><code>Web GIS</code> <code>Kampus Merdeka</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <b>◈ Village Portal — Tanjung Lasa</b><br />
+      <code>Nov 2021 – Jan 2022</code>
+      <p>Public administration web portal and office internet network infrastructure setup (Orbit Modem) in Kapuas Hulu.</p>
+      <p><code>Web Dev</code> <code>Networking</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -125,18 +151,17 @@ Results-driven **Full-Stack Developer & UI/UX Designer** with a proven track rec
 ### `04. GITHUB_TELEMETRY`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mhmmdsgt29-eng&theme=dark&background=0d1117&border=00f0ff&ring=ff2a85&fire=ff2a85&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=12" alt="GitHub Streak Stats" width="68%" />
+  <img src="https://streak-stats.demolab.com?user=mhmmdsgt29-eng&theme=transparent&background=0d1117&border=00f0ff&stroke=161b22&ring=ff2a85&fire=00f0ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmmdsgt29-eng&bg_color=0d1117&color=00f0ff&line=ff2a85&point=00f0ff&area=true&area_color=ff2a85&hide_border=false&border_radius=12" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmmdsgt29-eng&bg_color=0d1117&color=00f0ff&line=ff2a85&point=00f0ff&area=true&area_color=ff2a85&hide_border=false&border_radius=12" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 <br />
 
-<!-- BOTTOM ACCENT: RETRO-CYBER CYAN TO MAGENTA WAVE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:3b0d52,100:ff2a85&height=90&section=footer" width="100%" />
 </div>
