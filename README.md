@@ -1,26 +1,35 @@
-<!-- HEADER: RETRO-ROBOTIC WAVE & TYPING TERMINAL -->
+<!-- TOP ACCENT: RETRO-CYBER MAGENTA TO CYAN WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f0ff&height=180&section=header&text=MUHAMMAD%20ASWIN%20SIGIT&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%E2%97%88%20UI/UX%20ARCHITECT%20%E2%97%88%20CLOUD%20DEVOPS&descAlignY=60&descSize=13&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2a85,50:3b0d52,100:00f0ff&height=130&section=header&animation=fadeIn" width="100%" />
 </div>
 
+<!-- HERO SECTION: LOGO + IDENTITY + TYPING TERMINAL -->
 <div align="center">
-  <a href="https://contra.com/muhammad_aswin_sigit_jk8xiulv">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=%3E+INIT_SYSTEM%3A+End-to-End+Enterprise+Web+%26+Cloud+Architecture;%3E+CORE_STACK%3A+React+19+%7C+TypeScript+%7C+Laravel+13+%7C+Redis+%7C+Linux+VPS;%3E+STATUS%3A+Building+High-Concurrency+CBT+%26+EdTech+Ecosystems;%3E+AVAILABILITY%3A+Open+for+Remote+%2F+Hybrid+Engineering+Roles" alt="Typing SVG" />
-  </a>
+  <img src="assets/Logo.png" alt="Muhammad Aswin Sigit Logo" width="110" />
+  <br />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=720&height=45&lines=MUHAMMAD+ASWIN+SIGIT" alt="Muhammad Aswin Sigit" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&height=30&lines=%3E+FULL-STACK+ENGINEER+%E2%97%88+UI%2FUX+ARCHITECT+%E2%97%88+CLOUD+DEVOPS;%3E+CORE_STACK%3A+React+19+%7C+TypeScript+%7C+Laravel+13+%7C+Redis+%7C+Linux+VPS;%3E+STATUS%3A+Building+High-Concurrency+CBT+%26+EdTech+Ecosystems;%3E+AVAILABILITY%3A+Open+for+Remote+%2F+Hybrid+Engineering+Roles" alt="Typing Telemetry" />
 </div>
 
+<br />
+
 <div align="center">
-  <a href="https://contra.com/muhammad_aswin_sigit_jk8xiulv"><img src="https://img.shields.io/badge/PORTFOLIO-CONTRA-0d1117?style=for-the-badge&logo=contra&logoColor=00F0FF&labelColor=161b22" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-aswin-sigit-2a58881a1"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=161b22" /></a>
-  <a href="mailto:mhmmdsgt29@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT-0d1117?style=for-the-badge&logo=gmail&logoColor=FF2A85&labelColor=161b22" /></a>
-  <a href="https://iqroomkedinasan.com"><img src="https://img.shields.io/badge/LIVE_SYSTEM-IQ_ROOM-0d1117?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=161b22" /></a>
+  <a href="https://contra.com/muhammad_aswin_sigit_jk8xiulv"><img src="https://img.shields.io/badge/PORTFOLIO-CONTRA-161b22?style=for-the-badge&logo=contra&logoColor=FF2A85&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-aswin-sigit-2a58881a1"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161b22?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="mailto:mhmmdsgt29@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT-161b22?style=for-the-badge&logo=gmail&logoColor=FF2A85&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://iqroomkedinasan.com"><img src="https://img.shields.io/badge/LIVE_SYSTEM-IQ_ROOM-161b22?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0d1117" /></a>
 </div>
 
 <br />
 
 ---
 
-### `// 01. SYSTEM_PROFILE`
+### `01. SYSTEM_PROFILE`
 
 ```yaml
 IDENTITY:
@@ -39,17 +48,17 @@ Results-driven **Full-Stack Developer & UI/UX Designer** with a proven track rec
 
 ---
 
-### `// 02. DEPLOYED_PRODUCTION_SYSTEMS`
+### `02. DEPLOYED_PRODUCTION_SYSTEMS`
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://iqroomkedinasan.com">
-        <img src="./assets/iqroom-preview.png" alt="IQ ROOM Kedinasan Preview" width="100%" />
+        <img src="assets/iqroom-preview.png" alt="IQ ROOM Kedinasan Preview" width="100%" />
       </a>
       <h4>◈ IQ ROOM KEDINASAN — EdTech, LMS & CBT Platform</h4>
       <p>
-        <a href="https://iqroomkedinasan.com"><code>LIVE: iqroomkedinasan.com</code></a> &nbsp;|&nbsp; <code>Jul 2026 – Present</code>
+        <a href="https://iqroomkedinasan.com"><code>LIVE: iqroomkedinasan.com</code></a> &nbsp;|&nbsp; <code>Jul 2025 – Present</code>
       </p>
       <p>
         Full custom enterprise ecosystem engineered solo from UI/UX to production Cloud VPS.
@@ -67,7 +76,7 @@ Results-driven **Full-Stack Developer & UI/UX Designer** with a proven track rec
     </td>
     <td width="50%" valign="top">
       <a href="https://balaibahasakalbar.kemendikdasmen.go.id">
-        <img src="./assets/balaibahasa-preview.png" alt="Balai Bahasa Kalbar Preview" width="100%" />
+        <img src="assets/balaibahasa-preview.png" alt="Balai Bahasa Kalbar Preview" width="100%" />
       </a>
       <h4>◈ BALAI BAHASA KALBAR — Official Government Portal</h4>
       <p>
@@ -102,7 +111,7 @@ Results-driven **Full-Stack Developer & UI/UX Designer** with a proven track rec
 
 ---
 
-### `// 03. TECHNICAL_ARCHITECTURE_MATRIX`
+### `03. TECHNICAL_ARCHITECTURE_MATRIX`
 
 | LAYER | TECHNOLOGIES & TOOLING |
 | :--- | :--- |
@@ -113,13 +122,21 @@ Results-driven **Full-Stack Developer & UI/UX Designer** with a proven track rec
 
 ---
 
-### `// 04. GITHUB_TELEMETRY`
+### `04. GITHUB_TELEMETRY`
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mhmmdsgt29-eng&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&icon_color=ff2a85&text_color=c9d1d9&border_radius=12" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdsgt29-eng&layout=compact&bg_color=0d1117&border_color=ff2a85&title_color=ff2a85&text_color=c9d1d9&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=mhmmdsgt29-eng&theme=dark&background=0d1117&border=00f0ff&ring=ff2a85&fire=ff2a85&currStreakLabel=00f0ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=12" alt="GitHub Streak Stats" width="68%" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:161b22,100:0d1117&height=90&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmmdsgt29-eng&bg_color=0d1117&color=00f0ff&line=ff2a85&point=00f0ff&area=true&area_color=ff2a85&hide_border=false&border_radius=12" alt="Contribution Activity Graph" width="100%" />
+</div>
+
+<br />
+
+<!-- BOTTOM ACCENT: RETRO-CYBER CYAN TO MAGENTA WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:3b0d52,100:ff2a85&height=90&section=footer" width="100%" />
 </div>
