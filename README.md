@@ -26,7 +26,7 @@
 
 ---
 
-### `01. SYSTEM_PROFILE`
+### `01. BIOGRAPHY`
 
 <table>
   <tr>
@@ -55,7 +55,7 @@
 
 ---
 
-### `02. DEPLOYED_PRODUCTION_SYSTEMS`
+### `02. POTOROFOLIO`
 
 <table>
   <tr>
@@ -110,7 +110,7 @@
   </tr>
 </table>
 
-#### `ADDITIONAL_ENGINEERING_PROJECTS`
+#### `ADDITIONAL PROJECTS`
 
 <table>
   <tr>
@@ -137,7 +137,7 @@
 
 ---
 
-### `03. TECHNICAL_ARCHITECTURE_MATRIX`
+### `03. STACK DEVELOPMENT`
 
 | LAYER | TECHNOLOGIES & TOOLING |
 | :--- | :--- |
@@ -148,7 +148,7 @@
 
 ---
 
-### `04. GITHUB_TELEMETRY`
+### `04. WORK STATS`
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mhmmdsgt29-eng&theme=transparent&background=0d1117&border=00f0ff&stroke=161b22&ring=ff2a85&fire=00f0ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="GitHub Streak" />
